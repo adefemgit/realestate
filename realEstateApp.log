@@ -1,0 +1,192 @@
+Nov 02, 2025 10:59:49 PM org.example.RealEstate <init>
+INFO: RealEstate(String, double, int, double, Genre) constructor called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate toString
+INFO: RealEstate.toString() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate getTotalPrice
+INFO: getTotalPrice() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate averageSqmPerRoom
+INFO: averageSqmPerRoom() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate makeDiscount
+INFO: makeDiscount(10) called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate toString
+INFO: RealEstate.toString() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate getTotalPrice
+INFO: getTotalPrice() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate averageSqmPerRoom
+INFO: averageSqmPerRoom() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate <init>
+INFO: RealEstate(String, double, int, double, Genre) constructor called
+Nov 02, 2025 10:59:49 PM org.example.Panel <init>
+INFO: Panel(full) constructor called
+Nov 02, 2025 10:59:49 PM org.example.Panel toString
+INFO: Panel.toString() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate getCity
+INFO: getCity() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate getPrice
+INFO: getPrice() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate getSqm
+INFO: getSqm() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate getNumberOfRooms
+INFO: getNumberOfRooms() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate getGenre
+INFO: getGenre() called
+Nov 02, 2025 10:59:49 PM org.example.Panel getTotalPrice
+INFO: Panel.getTotalPrice() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate getPrice
+INFO: getPrice() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate getSqm
+INFO: getSqm() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate getCity
+INFO: getCity() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate averageSqmPerRoom
+INFO: averageSqmPerRoom() called
+Nov 02, 2025 10:59:49 PM org.example.Panel roomprice
+INFO: roomprice() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate getNumberOfRooms
+INFO: getNumberOfRooms() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate getPrice
+INFO: getPrice() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate getSqm
+INFO: getSqm() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate getNumberOfRooms
+INFO: getNumberOfRooms() called
+Nov 02, 2025 10:59:49 PM org.example.Panel hasSameAmount
+INFO: hasSameAmount() called
+Nov 02, 2025 10:59:49 PM org.example.Panel getTotalPrice
+INFO: Panel.getTotalPrice() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate getPrice
+INFO: getPrice() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate getSqm
+INFO: getSqm() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate getCity
+INFO: getCity() called
+Nov 02, 2025 10:59:49 PM org.example.RealEstate getTotalPrice
+INFO: getTotalPrice() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate <init>
+INFO: RealEstate(String, double, int, double, Genre) constructor called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate toString
+INFO: RealEstate.toString() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate getTotalPrice
+INFO: getTotalPrice() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate averageSqmPerRoom
+INFO: averageSqmPerRoom() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate makeDiscount
+INFO: makeDiscount(10) called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate toString
+INFO: RealEstate.toString() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate getTotalPrice
+INFO: getTotalPrice() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate averageSqmPerRoom
+INFO: averageSqmPerRoom() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate <init>
+INFO: RealEstate(String, double, int, double, Genre) constructor called
+Nov 02, 2025 11:02:12 PM org.example.Panel <init>
+INFO: Panel(full) constructor called
+Nov 02, 2025 11:02:12 PM org.example.Panel toString
+INFO: Panel.toString() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate getCity
+INFO: getCity() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate getPrice
+INFO: getPrice() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate getSqm
+INFO: getSqm() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate getNumberOfRooms
+INFO: getNumberOfRooms() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate getGenre
+INFO: getGenre() called
+Nov 02, 2025 11:02:12 PM org.example.Panel getTotalPrice
+INFO: Panel.getTotalPrice() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate getPrice
+INFO: getPrice() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate getSqm
+INFO: getSqm() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate getCity
+INFO: getCity() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate averageSqmPerRoom
+INFO: averageSqmPerRoom() called
+Nov 02, 2025 11:02:12 PM org.example.Panel roomprice
+INFO: roomprice() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate getNumberOfRooms
+INFO: getNumberOfRooms() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate getPrice
+INFO: getPrice() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate getSqm
+INFO: getSqm() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate getNumberOfRooms
+INFO: getNumberOfRooms() called
+Nov 02, 2025 11:02:12 PM org.example.Panel hasSameAmount
+INFO: hasSameAmount() called
+Nov 02, 2025 11:02:12 PM org.example.Panel getTotalPrice
+INFO: Panel.getTotalPrice() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate getPrice
+INFO: getPrice() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate getSqm
+INFO: getSqm() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate getCity
+INFO: getCity() called
+Nov 02, 2025 11:02:12 PM org.example.RealEstate getTotalPrice
+INFO: getTotalPrice() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate <init>
+INFO: RealEstate(String, double, int, double, Genre) constructor called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate toString
+INFO: RealEstate.toString() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate getTotalPrice
+INFO: getTotalPrice() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate averageSqmPerRoom
+INFO: averageSqmPerRoom() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate makeDiscount
+INFO: makeDiscount(10) called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate toString
+INFO: RealEstate.toString() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate getTotalPrice
+INFO: getTotalPrice() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate averageSqmPerRoom
+INFO: averageSqmPerRoom() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate <init>
+INFO: RealEstate(String, double, int, double, Genre) constructor called
+Nov 02, 2025 11:02:39 PM org.example.Panel <init>
+INFO: Panel(full) constructor called
+Nov 02, 2025 11:02:39 PM org.example.Panel toString
+INFO: Panel.toString() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate getCity
+INFO: getCity() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate getPrice
+INFO: getPrice() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate getSqm
+INFO: getSqm() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate getNumberOfRooms
+INFO: getNumberOfRooms() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate getGenre
+INFO: getGenre() called
+Nov 02, 2025 11:02:39 PM org.example.Panel getTotalPrice
+INFO: Panel.getTotalPrice() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate getPrice
+INFO: getPrice() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate getSqm
+INFO: getSqm() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate getCity
+INFO: getCity() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate averageSqmPerRoom
+INFO: averageSqmPerRoom() called
+Nov 02, 2025 11:02:39 PM org.example.Panel roomprice
+INFO: roomprice() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate getNumberOfRooms
+INFO: getNumberOfRooms() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate getPrice
+INFO: getPrice() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate getSqm
+INFO: getSqm() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate getNumberOfRooms
+INFO: getNumberOfRooms() called
+Nov 02, 2025 11:02:39 PM org.example.Panel hasSameAmount
+INFO: hasSameAmount() called
+Nov 02, 2025 11:02:39 PM org.example.Panel getTotalPrice
+INFO: Panel.getTotalPrice() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate getPrice
+INFO: getPrice() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate getSqm
+INFO: getSqm() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate getCity
+INFO: getCity() called
+Nov 02, 2025 11:02:39 PM org.example.RealEstate getTotalPrice
+INFO: getTotalPrice() called
